@@ -50,6 +50,3 @@ We are a values-driven community. We believe - and have seen - that if we can al
 2. Embrace change and thrive in ambiguity.
 3. Be resourceful.
 4. Take ownership of opportunities.
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/getting-started'>Getting Started</a> on Learn.co and start learning to code for free.</p>
