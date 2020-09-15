@@ -1,8 +1,9 @@
-## Welcome to Learn! 
-Over the next several months you will learn everything you need to know to get started as a Data Scientist. As you dive in, we’ll share a few thoughts about how you can best use Learn and make the most of your program experience. It's going to be harder, and also more rewarding than any other learning experience you've ever had — we promise. Know that you are part of the Flatiron School Community now, and although you may often be working alone, we’re in this together.
+## Welcome to Flatiron chool! 
+Over the next several months you will learn everything you need to know to get started as a Data Scientist. As you dive in, we’ll share a few thoughts about how you can make the most of your program experience. It's going to be harder, and also more rewarding than any other learning experience you've ever had — we promise. Know that you are part of the Flatiron School Community now, and although you may often be working alone, we’re in this together.
 
 ## Learning How To Learn
 The most common misconception we hear when people start this course is that we're teaching you Python, Linear Regression and Deep Learning. You will definitely learn those things (and more!), but that's actually not the most important set of things you're going to learn. 
+
 Over your career as a professional data scientist you're very likely going to end up working with data in ways that haven't been invented yet. The most important thing we're going to teach you is how to learn. We'll work with you to build the skills required to read and understand error messages and to strengthen your Googling skills to effectively search for answers. When you’re working as a data scientist and you have to learn a new skill, you'll know just how to go about doing so. 
 ## A Growth Mindset
 The most successful students in this program are those who exemplify a growth mindset and embody a couple of key qualities that we know make great data scientists:
@@ -50,3 +51,5 @@ We are a values-driven community. We believe - and have seen - that if we can al
 2. Embrace change and thrive in ambiguity.
 3. Be resourceful.
 4. Take ownership of opportunities.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/getting-started'>Getting Started</a> on Learn.co and start learning to code for free.</p>
