@@ -1,5 +1,5 @@
-## Welcome to Learn! 
-Over the next several months you will learn everything you need to know to get started as a Data Scientist. As you dive in, we’ll share a few thoughts about how you can best use Learn and make the most of your program experience. It's going to be harder, and also more rewarding than any other learning experience you've ever had — we promise. Know that you are part of the Flatiron School Community now, and although you may often be working alone, we’re in this together.
+## Welcome to Flatiron chool! 
+Over the next several months you will learn everything you need to know to get started as a Data Scientist. As you dive in, we’ll share a few thoughts about how you can make the most of your program experience. It's going to be harder, and also more rewarding than any other learning experience you've ever had — we promise. Know that you are part of the Flatiron School Community now, and although you may often be working alone, we’re in this together.
 
 ## Learning How To Learn
 The most common misconception we hear when people start this course is that we're teaching you Python, Linear Regression and Deep Learning. You will definitely learn those things (and more!), but that's actually not the most important set of things you're going to learn. 
